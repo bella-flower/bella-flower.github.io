@@ -1,4 +1,5 @@
-var path= "https://bella-flower.github.io/rvcp.github.io/static/data";
+var path= "https://bella-flower.github.io/src/server/public/static/data";
+
 //计算文件大小 KB开始计算
 function countFileSize(size) {
   if(size > 1024 && size < 1024*1024) {
